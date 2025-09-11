@@ -102,13 +102,6 @@ while True:
             case = 0
 
         case 11:
-            case = 0
-
-        case 12:
-            case = 0
-
-        case 13:
-            case = 0
 
         case 14:
             case = 0
@@ -130,3 +123,4 @@ while True:
 
         case 20:
             case = 0
+            break
