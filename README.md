@@ -5,17 +5,19 @@ This project is a decision simulator where you choose from multiple options that
 
 ## Requirements
 
-* python 3
+* python3
 
 
 ## Installation
 
-1. Download as a zip file or clone from github
- * git clone https://github.com/WTCSC/life-decision-simulator-DexterityB.git
-2. (_Unzip if neccessary_) and open life-decision-simulator-DexterityB in the terminal
- * cd life-decision-simulator-DexterityB
-3. Run decision-tree.py using python3
- * python3 decision-tree.py
+Download as a zip file or clone from github
+* git clone **_https://github.com/WTCSC/life-decision-simulator-DexterityB.git_**
+
+(_Unzip if neccessary_) and open **life-decision-simulator-DexterityB** in the terminal
+* cd **life-decision-simulator-DexterityB**
+
+Run **decision-tree.py**, using python3, in the terminal
+* python3 **decision-tree.py**
 
 
 ## Examples
